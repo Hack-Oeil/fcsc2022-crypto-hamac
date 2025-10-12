@@ -10,7 +10,7 @@ Fichiers :
 - [output.txt](output.txt)
 
 
-Auteur : alx
+Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
 
 Origine : [Hamac](https://hackropole.fr/fr/challenges/crypto/fcsc2022-crypto-hamac/)
 
